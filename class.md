@@ -1,4 +1,3 @@
-Kristian	
-Germany	
-Meta Front-End course
-
+Nick
+Charleston, SC
+Meta-front-end
