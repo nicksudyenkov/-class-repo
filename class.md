@@ -1,4 +1,4 @@
-Kristian	
-Germany	
-Meta Front-End course
+Nick
+Charleston
+Meta Front-End
 
